@@ -1,0 +1,5 @@
+build
+*.icns
+*.app
+*.exe
+*.pdb
